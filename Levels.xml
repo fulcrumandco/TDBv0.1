@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<data>
+    <area name="entry">
+        <description>The portal spits you out into a large, dark room, lit only by a single torch. 
+        It looks like you could pry the torch off the wall. 
+        Dim flickers of light come from two different passages, one to your left and one to your right.
+        </description>
+    </area>
+
+    <area name="altar">
+        <description>There is an altar of bones standing before you, with crude pewter icons. There is painting on the walls, in what looks like blood. Something shiny gleams on top of the rough surface. The path continues forward, into the dark, and back the way you came.</description>
+    </area>
+
+    <area name="dwelling">
+        <description>test</description>
+    </area>
+
+    <area name="kitchen">
+        <description>test</description>
+    </area>
+
+    <area name="cellar">
+        <description>test</description>
+    </area>
+
+    <area name="hub">
+        <description>test</description>
+    </area>
+
+    <area name="halo">
+        <description>test</description>
+    </area>
+
+    <area name="large_hall">
+        <description>test</description>
+    </area>
+
+    <area name="throne">
+        <description>test</description>
+    </area>
+</data>
